@@ -1,8 +1,4 @@
-This README includes the instructions for setting up and tuning the microphone array. Start by either copying this folder to your directory or running the following code:
-
-```
-git clone https://github.com/respeaker/usb_4_mic_array.git
-```
+This README includes the instructions for setting up and tuning the microphone array. Start by copying this folder to your directory.
 
 DOA.py is used to check the audio input angle into the microphone, printing Mic_tuning.direction which gives 45 to 135 degrees or OFF if outside this range.
 
