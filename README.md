@@ -7,3 +7,6 @@ tuning.py contains the list of parameters and the variables they correspond to f
 setdefaults.py sets the tuned parameters to apply to the microphone.
 
 record.py includes the function for processing the received DOA variable, as well as recording and processing directional noise.
+
+Person responsible:
+Jungbeom Nam
